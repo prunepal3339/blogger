@@ -1,0 +1,28 @@
+body{
+  text-align:center;
+  color:teal;
+}
+@media only screen and (min-width:768px){
+  body{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 100px;
+  }
+
+.date{
+  background-color:#f3f2f1;
+  color:red;
+}
+.date:hover{
+  color:#f3f2f1;
+  background-color: red;
+}
+p{
+  font-size: 18px;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color:red;
+}
